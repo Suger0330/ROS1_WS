@@ -1,0 +1,8 @@
+prefix=/home/lxm/commun_ws/devel
+
+Name: plum_test
+Description: Description of plum_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/lxm/commun_ws/devel
+
+Name: plum_head
+Description: Description of plum_head
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

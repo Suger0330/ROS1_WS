@@ -1,0 +1,8 @@
+prefix=/home/lxm/commun_ws/devel
+
+Name: plum_pub_sub
+Description: Description of plum_pub_sub
+Version: 0.0.0
+Cflags: -I/home/lxm/commun_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime

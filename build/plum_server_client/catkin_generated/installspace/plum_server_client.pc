@@ -1,0 +1,8 @@
+prefix=/home/lxm/commun_ws/install
+
+Name: plum_server_client
+Description: Description of plum_server_client
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

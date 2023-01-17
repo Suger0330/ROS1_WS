@@ -1,0 +1,2 @@
+plum_apis:plum_head:plum_head_src:plum_my:plum_param_server:plum_pub_sub:plum_server_client:plum_test
+-DCATKIN_DEVEL_PREFIX=/home/lxm/commun_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lxm/commun_ws/install -G Unix Makefiles

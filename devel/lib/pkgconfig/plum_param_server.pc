@@ -1,0 +1,8 @@
+prefix=/home/lxm/commun_ws/devel
+
+Name: plum_param_server
+Description: Description of plum_param_server
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
