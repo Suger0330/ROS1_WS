@@ -1,0 +1,23 @@
+bg_B: 255
+bg_G: 50
+bg_R: 100
+myTurtle:
+  background_b: 255
+  background_g: 86
+  background_r: 69
+  bg_B: 255
+  bg_G: 50
+  bg_R: 100
+  param_B: 100.12
+param_A: 100
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_suger_lxm__34995: http://suger-lxm:34995/
+    host_suger_lxm__44911: http://suger-lxm:44911/
+rosversion: '1.15.15
+
+  '
+run_id: a1ef01f2-96f4-11ed-b010-6bbafa370e6f
