@@ -138,6 +138,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/lxm/commun_ws/build/plum_param_server/cmake_install.cmake")
   include("/home/lxm/commun_ws/build/plum_pub_sub/cmake_install.cmake")
   include("/home/lxm/commun_ws/build/plum_server_client/cmake_install.cmake")
+  include("/home/lxm/commun_ws/build/launch01_basic/cmake_install.cmake")
   include("/home/lxm/commun_ws/build/plum_test/cmake_install.cmake")
 
 endif()
