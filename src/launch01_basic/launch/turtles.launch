@@ -1,11 +1,11 @@
 <launch>
     <group ns="first">
-        <node pkg="turtlesim" type="turtlesim_node"     name="myTurtle" output="screen" />
-        <node pkg="turtlesim" type="turtle_teleop_key"  name="myKey"    output="screen" />
+        <node pkg="turtlesim" type="turtlesim_node"     name="my_Turtle" output="screen" />
+        <node pkg="turtlesim" type="turtle_teleop_key"  name="my_Key"    output="screen" />
     </group>
     <group ns="second">
-        <node pkg="turtlesim" type="turtlesim_node"     name="myTurtle" output="screen" />
-        <node pkg="turtlesim" type="turtle_teleop_key"  name="myKey"    output="screen" />
+        <node pkg="turtlesim" type="turtlesim_node"     name="my_Turtle" output="screen" />
+        <node pkg="turtlesim" type="turtle_teleop_key"  name="my_Key"    output="screen" />
     </group>
 
 </launch>
