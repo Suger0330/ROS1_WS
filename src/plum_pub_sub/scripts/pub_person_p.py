@@ -17,7 +17,7 @@ if __name__ == "__main__":
     #4.组织发布逻辑并发布数据
     #4.1创建Person数据
     p = Person()
-    p.name = "王思淇"
+    p.name = "wsq"
     p.age = 1
     p.height = 1.65
     #4.2创建发布频率
